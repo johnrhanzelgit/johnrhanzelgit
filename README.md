@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnrhanzelgit
+- 👋 Hi, I’m John Rhanzel
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on open-source projects
