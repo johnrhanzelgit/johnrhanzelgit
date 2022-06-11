@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Rhanzel
-- 🌱 I’m currently a Front-end Developmer
+- 🌱 I’m currently a Front-end Developer
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me johnrhanzeleb@gmail.com
 - 🐥 Follow me on twitter @hellorhanzel
