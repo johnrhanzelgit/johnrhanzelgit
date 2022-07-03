@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
-- 📝 I regularly write articles on [https://hashnode.com/@johnrhanzel](https://hashnode.com/@johnrhanzel)
-
-- 💬 Ask me about **Python, UI/UX, Figma, JavaScript, HTML, CSS, C#**
+- 💬 Ask me about **Python, UI/UX, Figma, Adobe XD, JavaScript, HTML, CSS, C#**
 
 - 📫 How to reach me **johnrhanzeleb@gmail.com**
 
