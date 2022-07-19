@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrhanzelgit&show_icons=true&locale=en" alt="johnrhanzelgit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnrhanzelgit&" alt="johnrhanzelgit" /></p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/23u3uR1UAkcJAPxAweKzmz?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
