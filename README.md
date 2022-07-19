@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnrhanzelgit&" alt="johnrhanzelgit" /></p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/71KI7v1YqVU8cIFzBl47dh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<a style="border-radius:12px" src="https://open.spotify.com/embed/artist/71KI7v1YqVU8cIFzBl47dh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></a>
